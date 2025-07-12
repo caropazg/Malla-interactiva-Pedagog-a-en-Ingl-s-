@@ -109,3 +109,10 @@ header {
   font-size: 1rem;
   color: #b25f00;
 }
+.aprobado {
+  background: #d6ffd6;
+  color: #888;
+  border-style: dashed;
+  text-decoration: line-through;
+  opacity: 0.7;
+}
