@@ -169,7 +169,7 @@ const courses = {
   },
   "Literatura para la Enseñanza del Inglés": {
     desc: "Profundización en recursos literarios para enseñar inglés.",
-    prereq: "Lengua Inglesa Integrada 8"
+    prereq: "Lingüística Aplicada a la Enseñanza del Inglés"
   },
   "ELAB y Taller de Reflexión III": {
     desc: "Tercer espacio de reflexión sobre la práctica docente.",
@@ -186,11 +186,11 @@ const courses = {
   // 9° Semestre
   "Seminario de Grado": {
     desc: "Seminario para la preparación de la titulación.",
-    prereq: "Inglés Académico I, ELAB y Taller de Reflexión IV"
+    prereq: "Lengua Inglesa Integrada 8, Literatura para la Enseñanza del Inglés, ELAB y Taller de Reflexión III"
   },
   "ELAB y Taller de Reflexión IV": {
     desc: "Cuarto espacio de reflexión sobre la práctica docente.",
-    prereq: "ELAB y Taller de Reflexión III, Lengua Inglesa Integrada 8, Literatura para la Enseñanza del Inglés"
+    prereq: "ELAB y Taller de Reflexión III, Lengua Inglesa Integrada 8"
   },
   "Formación Complementaria 3": {
     desc: "Ramos de formación complementaria.",
@@ -203,7 +203,7 @@ const courses = {
   // 10° Semestre
   "Taller de Titulación": {
     desc: "Trabajo final para obtener el título profesional.",
-    prereq: "Inglés Académico II, ELAB y Taller de Reflexión IV, Seminario de Grado"
+    prereq: "Inglés Académico I, ELAB y Taller de Reflexión IV, Seminario de Grado"
   },
   "ELAB y Práctica Profesional": {
     desc: "Práctica docente profesional.",
